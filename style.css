@@ -1,0 +1,33 @@
+body{
+ background: url(background: #44A08D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #093637, #44A08D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #093637, #44A08D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Lobster', cursive;
+}
+.deleteButton{
+  border-radius:90px;
+      background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 9px;
+}
+
+
+
+.kl{
+  border-radius:10px;
+  padding: 2px 4px;
+}
+.new {
+    list-style-position: inside;
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+   width: 400px;
+}
